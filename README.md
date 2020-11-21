@@ -1,0 +1,2 @@
+# VolleyForAll
+After two weeks of Coding Weeks , me and my group , we are writing a program of this application.This app are  way to organise our sport's time ,with it we can know how mny person are in the volley beach , and if there is some place for us  for playing , and also if they have a ball or not .It's a space where you can register your different information like number phone or e-mail if you want to have some notification about every person who have the same disponibility like you .Also we can search if they are any person to play with him. 
